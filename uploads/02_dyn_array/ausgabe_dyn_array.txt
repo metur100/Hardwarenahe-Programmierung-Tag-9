@@ -1,0 +1,76 @@
+**** Arraystatus ****
+Länge: 1
+Fuellstand: 0
+**** Arraystatus ****
+Länge: 1
+Fuellstand: 1
+[0]: Hardwarenahe
+**** Arraystatus ****
+Länge: 2
+Fuellstand: 2
+[0]: Hardwarenahe
+[1]: Programmierung
+**** Arraystatus ****
+Länge: 4
+Fuellstand: 3
+[0]: Hardwarenahe
+[1]: Programmierung
+[2]: ist
+**** Arraystatus ****
+Länge: 4
+Fuellstand: 4
+[0]: Hardwarenahe
+[1]: Programmierung
+[2]: ist
+[3]: gar
+**** Arraystatus ****
+Länge: 8
+Fuellstand: 5
+[0]: Hardwarenahe
+[1]: Programmierung
+[2]: ist
+[3]: gar
+[4]: nicht
+**** Arraystatus ****
+Länge: 8
+Fuellstand: 6
+[0]: Hardwarenahe
+[1]: Programmierung
+[2]: ist
+[3]: gar
+[4]: nicht
+[5]: toll
+**** Arraystatus ****
+Länge: 8
+Fuellstand: 7
+[0]: Hardwarenahe
+[1]: Programmierung
+[2]: ist
+[3]: gar
+[4]: nicht
+[5]: toll
+[6]: !
+**** Arraystatus ****
+Länge: 8
+Fuellstand: 6
+[0]: Hardwarenahe
+[1]: Programmierung
+[2]: ist
+[3]: nicht
+[4]: toll
+[5]: !
+**** Arraystatus ****
+Länge: 8
+Fuellstand: 5
+[0]: Hardwarenahe
+[1]: Programmierung
+[2]: ist
+[3]: toll
+[4]: !
+**** Arraystatus ****
+Länge: 4
+Fuellstand: 4
+[0]: Hardwarenahe
+[1]: Programmierung
+[2]: ist
+[3]: toll

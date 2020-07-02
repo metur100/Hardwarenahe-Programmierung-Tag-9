@@ -1,0 +1,10 @@
+Collie Lassie 17 12 1938 Hund
+Akita Hachiko 10 11 1923 Hund
+Windhund Snuppy 24 4 2005 Hund
+Bernhardiner Barry 1 1 1800 Hund
+Collie Bobbie 2 2 1923 Hund
+Beagle Snoopie 2 10 1950 Hund
+GoldenRetriever AirBuddy 4 4 1988 Hund
+Hauskatze Simon 4 4 2008 Katze
+Bernhardiner Beethoven 5 5 1992 Hund
+Mischling Idefix 6 6 1963 Hund
